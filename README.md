@@ -1,2 +1,2 @@
-# high-score
-This program gives the highest score from a list of scores.
+# python codes
+Simple self explanatory python codes.
